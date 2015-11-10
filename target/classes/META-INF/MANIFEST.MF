@@ -1,8 +1,4 @@
 Manifest-Version: 1.0
-Class-Path: cassandra-driver-core-2.1.8.jar netty-handler-4.0.27.Final
- .jar netty-buffer-4.0.27.Final.jar netty-common-4.0.27.Final.jar nett
- y-transport-4.0.27.Final.jar netty-codec-4.0.27.Final.jar guava-14.0.
- 1.jar metrics-core-3.0.2.jar slf4j-api-1.7.5.jar
 Build-Jdk: 1.7.0_80
 Built-By: dilshankm
 Created-By: Maven Integration for Eclipse
